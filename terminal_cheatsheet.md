@@ -2,7 +2,10 @@
 - `pwd` - Tells you what directory you are currently in.
 - `ls` - Lists the content of the current directory.
 - `cd` - Allows you to change directory
-- `cd -` returns to the last directory you were in
-- `mkdir` creates a new directory with the name specified, e.g., `mkdir newFolder`.
-- `touch` creates a new file with the name specified, e.g., `touch newFile.txt`.
-- `cat` can be used to read and display the contents of a text file within the terminal window.
+- `cd -` - Returns to the last directory you were in
+- `mkdir` - Creates a new directory with the name specified, e.g., `mkdir newFolder`.
+- `touch` - Creates a new file with the name specified, e.g., `touch newFile.txt`.
+- `cat` - Can be used to read and display the contents of a text file within the terminal window.
+- `cp` - Copies a file from one location to another. To copy a folder, use the `-r` flag. For example: `cp text.txt ~/documents`, would copy the file 'text.txt' to the 'documents' directory.
+- `mv` - Works in the same way as `cp` but moves the file rather than copying it.
+- `rm` and `rmdir` - Deletes a file or folder respectively.
