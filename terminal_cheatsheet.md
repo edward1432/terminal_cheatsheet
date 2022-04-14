@@ -9,3 +9,6 @@
 - `cp` - Copies a file from one location to another. To copy a folder, use the `-r` flag. For example: `cp text.txt ~/documents`, would copy the file 'text.txt' to the 'documents' directory.
 - `mv` - Works in the same way as `cp` but moves the file rather than copying it.
 - `rm` and `rmdir` - Deletes a file or folder respectively.
+- `q` - Quit sub-screen and return to terminal.
+- `clear` - Clears the terminal screen of all previous commands.
+- `whatis` - Gives a one-line description of a specified command.
